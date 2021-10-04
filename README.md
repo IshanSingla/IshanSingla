@@ -3,7 +3,7 @@
 ### About 🙋🏻‍♂️
 ```python
 Name = "ISHAN SINGLA"
-who_i_am = ['Coding':  '❣️']
+Profession = ['Coding':  '❣️']
 Age = "19"
 Country = "🇮🇳"
 College = "Chitkara University, Punjab"
