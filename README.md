@@ -6,6 +6,7 @@ Name = "ISHAN SINGLA"
 who_i_am = ['Coding':  '❣️']
 Age = "19"
 Country = "🇮🇳"
+College = "Chitkara University, Punjab"
 ```
 #### 
 [![telegram badge](https://img.shields.io/badge/@IshanSingla-30302f?style=for-the-badge&logo=telegram)](https://t.me/IshanSingla)
