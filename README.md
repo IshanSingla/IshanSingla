@@ -17,9 +17,9 @@ Country = "🇮🇳"
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
 
-![LEGENDX Git Stats](https://github-readme-stats.vercel.app/api?username=legendxop&include_all_commits=true&count_private=true&theme=highcontrast)
+![Ishan Singla Git Stats](https://github-readme-stats.vercel.app/api?username=IshanSingla&include_all_commits=true&count_private=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendxop&layout=compact&theme=radical)](https://github.com/legendxop)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanSingla&layout=compact&theme=radical)](https://github.com/IshanSingla)
 
 ### Languages and Tools I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
