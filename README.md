@@ -2,9 +2,9 @@
 
 ### About 🙋🏻‍♂️
 ```python
-Name = "LEGEND X"
+Name = "ISHAN SINGLA"
 who_i_am = ['Coding':  '❣️']
-Age = "16"
+Age = "19"
 Country = "🇮🇳"
 ```
 #### 
