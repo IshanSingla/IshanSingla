@@ -8,7 +8,7 @@ Age = "19"
 Country = "🇮🇳"
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/@LEGENDX22-30302f?style=for-the-badge&logo=telegram)](https://t.me/legendx22)
+[![telegram badge](https://img.shields.io/badge/@IshanSingla-30302f?style=for-the-badge&logo=telegram)](https://t.me/IshanSingla)
 [![mailid badge](https://img.shields.io/badge/LEGENDX-30302f?style=for-the-badge&logo=gmail)](mailto:legendxx08377@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legendxop&label=Profile%20Views&color=orange&style=flat-square" alt="Legendx" /> </p>
 
