@@ -22,6 +22,7 @@ College = "Chitkara University, Punjab"
 - ⚡️ Fun-Fact: I'm Noob;
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
+
 #### 
 [![Profile views](https://gpvc.arturio.dev/IshanSingla)
 [![GitHub followers](https://img.shields.io/github/followers/IshanSingla.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/IshanSingla?tab=followers)
@@ -30,6 +31,12 @@ College = "Chitkara University, Punjab"
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanSingla&layout=compact&theme=radical)](https://github.com/IshanSingla)
 
+# TOOLS AND LANGS USED
+- ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python)&nbsp;&nbsp;
+- ![Pycharm](https://img.shields.io/badge/PYcharm-ffffff?style=for-the-badge&logo=pycharm)&nbsp;&nbsp;
+- ![VCS](https://img.shields.io/badge/visual%20studio%20code-E52E06?style=for-the-badge&logo=visual-studio-code)&nbsp;&nbsp;
+- ![TELETHON](https://img.shields.io/badge/Telethon-ffffff.svg?logo=data:image/svg+xml;base64,PCEtLSBMb2dvIGhhbmQtbWFkZSBieSBMb25hbWkgKEMpIExvbmFtaVdlYnMgMjAxOCwgdGlkaWVkIHVwIGJ5IEp1YW5Qb3RhdG8gLS0+Cjxzdmcgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiPgogIDxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjQ1IiBmaWxsPSIjMzc3N2IwIiAvPgogIDxwYXRoIGQ9Ik0yMCAzMCBoNjAgdjEwIGwtMiAyIGgtMTcuNSBsLTEwLjUgNDMgbC0yIDIgbC0xMi41IC00NSBoLTE3LjUgdi0xMCIgZmlsbD0iI2YwYTcyNyIvPgogIDxwYXRoIGQ9Ik0yMCAzMCBoNjAgdjEwIGgtMTcuNSBsLTEyLjUgNDUgbC0xMi41IC00NSBoLTE3LjUgdi0xMCIgZmlsbD0iI2ZmZDc1MCIvPgo8L3N2Zz4K)&nbsp;&nbsp;
+- 
 ### Languages and Tools I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
