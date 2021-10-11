@@ -23,8 +23,8 @@ College = "Chitkara University, Punjab"
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
 # GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/IshanSingla)
-- [![GitHub followers](https://img.shields.io/github/followers/IshanSingla.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/IshanSingla?tab=followers)
+![Profile views](https://gpvc.arturio.dev/IshanSingla)
+[![GitHub followers](https://img.shields.io/github/followers/IshanSingla.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/IshanSingla?tab=followers)
 
 ![Ishan Singla Git Stats](https://github-readme-stats.vercel.app/api?username=IshanSingla&include_all_commits=true&count_private=true&theme=highcontrast)
 
