@@ -17,8 +17,14 @@ College = "Chitkara University, Punjab"
 - 😄I'm Still Learning Git & GitHub
 - ☀️Python Lover
 - ⚜️Most Of My Repositories Are For Telegram
+- 🤔 I’m looking for help with bot developing 😭;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: I'm Noob;
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
+# GITHUB STATUS.
+- ![Profile views](https://gpvc.arturio.dev/Inukaasith)
+- [![GitHub followers](https://img.shields.io/github/followers/inukaasith.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/inukaasith?tab=followers)
 
 ![Ishan Singla Git Stats](https://github-readme-stats.vercel.app/api?username=IshanSingla&include_all_commits=true&count_private=true&theme=highcontrast)
 
