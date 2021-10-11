@@ -9,7 +9,7 @@ Country = "🇮🇳"
 College = "Chitkara University, Punjab"
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/@IshanSingla-30302f?style=for-the-badge&logo=telegram)](https://t.me/IshanSingla)
+[![telegram badge](https://img.shields.io/badge/@IshanSingla-30302f?style=for-the-badge&logo=telegram)](https://t.me/RealIshanSingla)
 [![mailid badge](https://img.shields.io/badge/IshanSingla-30302f?style=for-the-badge&logo=gmail)](mailto:is.ishan.singla@gmail.com)
 
 - 😄I'm Still Learning Git & GitHub
