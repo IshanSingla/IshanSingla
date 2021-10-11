@@ -26,8 +26,11 @@ College = "Chitkara University, Punjab"
 #### 
 ![Profile views](https://gpvc.arturio.dev/IshanSingla)
 [![GitHub followers](https://img.shields.io/github/followers/IshanSingla.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/IshanSingla?tab=followers)
-
-![Ishan Singla Git Stats](https://github-readme-stats.vercel.app/api?username=IshanSingla&include_all_commits=true&count_private=true&theme=highcontrast)
+<p>
+  <a href="https://github.com/inukaasith/handle-path-oz">
+    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=inukaasith&show_icons=true&hide_border=true" />
+  </a>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanSingla&layout=compact&theme=radical)](https://github.com/IshanSingla)
 
