@@ -22,6 +22,7 @@ College = "Chitkara University, Punjab"
 - ⚡️ Fun-Fact: I'm Noob;
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
+#### 
 [![Profile views](https://gpvc.arturio.dev/IshanSingla)
 [![GitHub followers](https://img.shields.io/github/followers/IshanSingla.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/IshanSingla?tab=followers)
 
