@@ -8,7 +8,7 @@ Age = "19"
 Country = "🇮🇳"
 College = "Chitkara University, Punjab"
 ```
-[![Github](https://in.linkedin.com/in/ishan-singla-3880871a7?trk=profile-badge)](https://github.com/inukaasith)
+
 
               
 #### 
@@ -27,7 +27,6 @@ College = "Chitkara University, Punjab"
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
 
 #### 
-![Profile views](https://gpvc.arturio.dev/IshanSingla)
 [![GitHub followers](https://img.shields.io/github/followers/IshanSingla.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/IshanSingla?tab=followers)
 
 <p>
