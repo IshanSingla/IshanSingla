@@ -8,6 +8,7 @@ Age = "19"
 Country = "🇮🇳"
 College = "Chitkara University, Punjab"
 ```
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 #### 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/inukaasith)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/inukaasith7/)
