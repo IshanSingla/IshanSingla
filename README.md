@@ -26,7 +26,7 @@ College = "Chitkara University, Punjab"
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="55%" align="left" alt="Ishan's github stats" src="https://github-profile-trophy.vercel.app/?username=IshanSingla&no-frame=true&row=1&column=7"/>
+    <img width="60%" align="left" alt="Ishan's github stats" src="https://github-profile-trophy.vercel.app/?username=IshanSingla&no-frame=true&row=1&column=7"/>
   </a> 
 </p>
 <p align="right">
@@ -55,6 +55,8 @@ College = "Chitkara University, Punjab"
 
 <br />
 <br />
+
+
 ## Follow me on
 
   
