@@ -25,9 +25,9 @@ College = "Chitkara University, Punjab"
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Noob;
 
-<h4 align="center"><b>My GitHub Stats💛</b></h4>
 
-#### 
+# My GitHub Stats💛
+<p align="left">
 [![GitHub followers](https://img.shields.io/github/followers/IshanSingla.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/IshanSingla?tab=followers)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IshanSingla&label=Profile%20views&color=0e75b6&style=flat" alt="ishikagarg-ig" /> </p>
 
@@ -44,7 +44,7 @@ College = "Chitkara University, Punjab"
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanSingla&layout=compact&theme=radical)](https://github.com/IshanSingla)
 
-
+</p>
 
 ### Languages and Tools I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
