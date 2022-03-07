@@ -28,6 +28,8 @@ College = "Chitkara University, Punjab"
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img width="55%" align="left" alt="Ishan's github stats" src="https://github-profile-trophy.vercel.app/?username=IshanSingla&no-frame=true&row=1&column=7"/>
   </a> 
+</p>
+<p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img width="40%" align="left" alt="Ishan's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanSingla&layout=compact&theme=radical"/>
   </a> 
@@ -56,12 +58,9 @@ College = "Chitkara University, Punjab"
 [<img align="left" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />](https://www.ubuntu.com)
 [<img align="left" alt="Heroku" width="26px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
 
-</p>
-<br />
-<br />
 
 ## Follow me on
-<p align="left">
+
   
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/inukaasith)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/inukaasith7/)
