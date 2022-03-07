@@ -14,7 +14,7 @@ College = "Chitkara University, Punjab"
 ```
 
 
-# Follow me on
+#### Follow me on
 <p align="left">
   
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/inukaasith)
@@ -24,7 +24,7 @@ College = "Chitkara University, Punjab"
 </p>
 
 
-# My GitHub Stats💛
+#### My GitHub Stats💛
 <p align="left">
 
 [![GitHub followers](https://img.shields.io/github/followers/IshanSingla.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/IshanSingla?tab=followers)
