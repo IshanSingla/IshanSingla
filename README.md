@@ -1,13 +1,18 @@
-### ⚡ HELLO ⚡
-[![telegram badge](https://img.shields.io/badge/@IshanSingla-30302f?style=for-the-badge&logo=telegram)](https://t.me/RealIshanSingla)
-### About 🙋🏻‍♂️
+### ⚡ HELLO EVERYONE ⚡
 ```python
 Name = "ISHAN SINGLA"
 Profession = ['Coding':  '❣️']
 Age = "19"
 Country = "🇮🇳"
 College = "Chitkara University, Punjab"
+- 😄I'm Still Learning Git & GitHub
+- ☀️Python Lover
+- ⚜️Most Of My Repositories Are For Telegram
+- 🤔 I’m looking for help with bot developing 😭;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: I'm Noob;
 ```
+
 
 # Follow me on
 <p align="left">
@@ -17,13 +22,6 @@ College = "Chitkara University, Punjab"
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:is.ishan.singla@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:ishan.singla@hotmail.com)
 </p>
-
-- 😄I'm Still Learning Git & GitHub
-- ☀️Python Lover
-- ⚜️Most Of My Repositories Are For Telegram
-- 🤔 I’m looking for help with bot developing 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I'm Noob;
 
 
 # My GitHub Stats💛
@@ -39,7 +37,7 @@ College = "Chitkara University, Punjab"
 </p>
 <p>
   <a href="https://github.com/IshanSingla/handle-path-oz">
-    <img width="54%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=IshanSingla&show_icons=true&hide_border=true" />
+    <img width="54%" align="left" alt="Ishan's github stats" src="https://github-readme-stats.vercel.app/api?username=IshanSingla&show_icons=true&hide_border=true" />
   </a>
 </p>
 
