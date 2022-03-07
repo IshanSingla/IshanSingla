@@ -38,7 +38,8 @@ College = "Chitkara University, Punjab"
 <br />
 <br />
 <br />
-</p>
+<br />
+<br />
 
 
 <p align="left">
