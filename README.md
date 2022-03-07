@@ -23,7 +23,6 @@ College = "Chitkara University, Punjab"
 [![GitHub stars](https://img.shields.io/github/stars/IshanSingla.svg?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/IshanSingla?tab=followers)
 [![GitHub views](https://komarev.com/ghpvc/?username=IshanSingla&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/IshanSingla?tab=followers)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IshanSingla&label=Profile%20views&color=0e75b6&style=flat" alt="ishikagarg-ig" /> </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
