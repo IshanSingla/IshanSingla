@@ -31,7 +31,7 @@ College = "Chitkara University, Punjab"
 </p>
 <p>
   <a href="https://github.com/IshanSingla/handle-path-oz">
-    <img width="54%" align="left" alt="Ishan's github stats" src="https://github-readme-stats.vercel.app/api?username=IshanSingla&show_icons=true&hide_border=true" />
+    <img width="54%" align="right" alt="Ishan's github stats" src="https://github-readme-stats.vercel.app/api?username=IshanSingla&show_icons=true&hide_border=true" />
   </a>
 </p>
 
