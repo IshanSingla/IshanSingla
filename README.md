@@ -21,7 +21,7 @@ About= [
 ## My GitHub Stats💛
 <p align="left">
 
-[![GitHub followers](https://img.shields.io/github/followers/IshanSingla.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/IshanSingla?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/IshanSingla.svg?label=Follow)](https://github.com/IshanSingla?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/IshanSingla.svg?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/IshanSingla?tab=followers)
 [![GitHub views](https://komarev.com/ghpvc/?username=IshanSingla&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/IshanSingla?tab=followers)
 
