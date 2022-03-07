@@ -16,25 +16,17 @@ College = "Chitkara University, Punjab"
 ```
 
 
-## Follow me on
-<p align="left">
-  
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/inukaasith)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/inukaasith7/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:is.ishan.singla@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:ishan.singla@hotmail.com)
-</p>
-
-
 ## My GitHub Stats💛
 <p align="left">
 
 [![GitHub followers](https://img.shields.io/github/followers/IshanSingla.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/IshanSingla?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/IshanSingla.svg?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/IshanSingla?tab=followers)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IshanSingla&label=Profile%20views&color=0e75b6&style=flat" alt="ishikagarg-ig" /> </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IshanSingla&no-frame=true&row=1&column=7" alt="ishikagarg-ig" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="54%" align="left" alt="Ishan's github stats" src="https://github-profile-trophy.vercel.app/?username=IshanSingla&no-frame=true&row=1&column=7"/>
   </a> 
 </p>
 <p>
@@ -59,3 +51,11 @@ College = "Chitkara University, Punjab"
 <br />
 <br />
 
+## Follow me on
+<p align="left">
+  
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/inukaasith)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/inukaasith7/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:is.ishan.singla@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:ishan.singla@hotmail.com)
+</p>
