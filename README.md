@@ -30,7 +30,10 @@ College = "Chitkara University, Punjab"
 [![GitHub followers](https://img.shields.io/github/followers/IshanSingla.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/IshanSingla?tab=followers)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IshanSingla&label=Profile%20views&color=0e75b6&style=flat" alt="ishikagarg-ig" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IshanSingla&no-frame=true&row=1&column=7" alt="ishikagarg-ig" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IshanSingla&no-frame=true&row=1&column=7" alt="ishikagarg-ig" />
+  </a> 
+</p>
 <p>
   <a href="https://github.com/IshanSingla/handle-path-oz">
     <img width="54%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=IshanSingla&show_icons=true&hide_border=true" />
