@@ -24,14 +24,19 @@ College = "Chitkara University, Punjab"
 [![GitHub views](https://komarev.com/ghpvc/?username=IshanSingla&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/IshanSingla?tab=followers)
 
 
-<p align="left">
+<p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="54%" align="left" alt="Ishan's github stats" src="https://github-profile-trophy.vercel.app/?username=IshanSingla&no-frame=true&row=1&column=7"/>
+    <img width="50%" align="left" alt="Ishan's github stats" src="https://github-profile-trophy.vercel.app/?username=IshanSingla&no-frame=true&row=1&column=7"/>
+  </a> 
+</p>
+<p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="50%" align="left" alt="Ishan's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanSingla&layout=compact&theme=radical"/>
   </a> 
 </p>
 <p>
   <a href="https://github.com/IshanSingla/handle-path-oz">
-    <img width="54%" align="right" alt="Ishan's github stats" src="https://github-readme-stats.vercel.app/api?username=IshanSingla&show_icons=true&hide_border=true" />
+    <img width="50%" align="right" alt="Ishan's github stats" src="https://github-readme-stats.vercel.app/api?username=IshanSingla&show_icons=true&hide_border=true" />
   </a>
 </p>
 
