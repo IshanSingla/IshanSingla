@@ -40,8 +40,6 @@ College = "Chitkara University, Punjab"
   </a>
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanSingla&layout=compact&theme=radical)](https://github.com/IshanSingla)
 <br />
 <br />
 <br />
