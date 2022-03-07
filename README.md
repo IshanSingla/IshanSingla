@@ -28,7 +28,9 @@ College = "Chitkara University, Punjab"
 
 # My GitHub Stats💛
 <p align="left">
+
 [![GitHub followers](https://img.shields.io/github/followers/IshanSingla.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/IshanSingla?tab=followers)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IshanSingla&label=Profile%20views&color=0e75b6&style=flat" alt="ishikagarg-ig" /> </p>
 
 <p align="left">
