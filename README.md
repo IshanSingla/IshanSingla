@@ -6,13 +6,14 @@ Age = "19"
 Country = "🇮🇳"
 College = "Chitkara University, Punjab"
 
-
-- 😄I'm Still Learning Git & GitHub
-- ☀️Python Lover
-- ⚜️Most Of My Repositories Are For Telegram
-- 🤔 I’m looking for help with bot developing 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I'm Noob;
+About= [
+  😄I'm Still Learning Git & GitHub
+  ☀️Python Lover
+  ⚜️Most Of My Repositories Are For Telegram
+  🤔 I’m looking for help with bot developing 😭;
+  💬 Ask me about anything, I am happy to help;
+  ⚡️ Fun-Fact: I'm Noob;
+]
 ```
 
 
