@@ -1,18 +1,19 @@
 # ⚡ HELLO EVERYONE ⚡
 ```python
 Name = "ISHAN SINGLA"
-Profession = ['Coding':  '❣️']
+Profession = {
+  'Coding':  '❣️'
+}
 Age = "19"
 Country = "🇮🇳"
 College = "Chitkara University, Punjab"
 
 About= [
-  😄I'm Still Learning Git & GitHub
-  ☀️Python Lover
-  ⚜️Most Of My Repositories Are For Telegram
-  🤔 I’m looking for help with bot developing 😭;
-  💬 Ask me about anything, I am happy to help;
-  ⚡️ Fun-Fact: I'm Noob;
+  "😄I'm Still Learning Git & GitHub",
+  "☀️Python Lover",
+  "⚜️Most Of My Repositories Are For Telegram",
+  "💬 Ask me about anything, I am happy to help",
+  "⚡️ Fun-Fact: I'm Noob",
 ]
 ```
 
@@ -31,7 +32,7 @@ About= [
   </a> 
 
   <a href="https://github.com/IshanSingla/handle-path-oz">
-    <img width="40%" align="left" alt="Ishan's github stats" src="https://github-readme-stats.vercel.app/api?username=IshanSingla&show_icons=true&hide_border=true" />
+    <img width="50%" align="left" alt="Ishan's github stats" src="https://github-readme-stats.vercel.app/api?username=IshanSingla&show_icons=true&hide_border=true" />
   </a>
 </p>
 
