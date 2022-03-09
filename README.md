@@ -64,7 +64,7 @@ About= [
 <br />
 
 
-## Follow me on
+## Contact me on
 
   
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/inukaasith)
