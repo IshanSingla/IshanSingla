@@ -35,6 +35,9 @@ About= [
     <img width="60%" align="left" alt="Ishan's github stats" src="https://github-readme-stats.vercel.app/api?username=IshanSingla&show_icons=true&hide_border=true" />
   </a>
 </p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishansingla&show_icons=true&locale=en&layout=compact" alt="ishikagarg-ig" />
+</p>
 
 <br />
 <br />
