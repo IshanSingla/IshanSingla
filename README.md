@@ -36,7 +36,7 @@ About= [
   </a>
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishansingla&show_icons=true&locale=en&layout=compact" alt="ishikagarg-ig" />
+  <img width="60%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishansingla&show_icons=true&locale=en&layout=compact" alt="ishikagarg-ig" />
 </p>
 
 <br />
