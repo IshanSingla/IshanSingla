@@ -28,11 +28,11 @@ About= [
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="60%" align="left" alt="Ishan's github stats" src="https://github-profile-trophy.vercel.app/?username=IshanSingla&no-frame=true&row=1&column=7"/>
+    <img width="100%" align="left" alt="Ishan's github stats" src="https://github-profile-trophy.vercel.app/?username=IshanSingla&no-frame=true&row=1&column=7"/>
   </a> 
 
   <a href="https://github.com/IshanSingla/handle-path-oz">
-    <img width="50%" align="right" alt="Ishan's github stats" src="https://github-readme-stats.vercel.app/api?username=IshanSingla&show_icons=true&hide_border=true" />
+    <img width="60%" align="left" alt="Ishan's github stats" src="https://github-readme-stats.vercel.app/api?username=IshanSingla&show_icons=true&hide_border=true" />
   </a>
 </p>
 
