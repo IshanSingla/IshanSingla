@@ -30,7 +30,9 @@ About= [
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img width="80%" align="left" alt="Ishan's github stats" src="https://github-profile-trophy.vercel.app/?username=IshanSingla&no-frame=true&row=1&column=7"/>
   </a> 
-
+  <br />
+  <br />
+  <br />
   <a href="https://github.com/IshanSingla/handle-path-oz">
     <img width="50%" align="left" alt="Ishan's github stats" src="https://github-readme-stats.vercel.app/api?username=IshanSingla&show_icons=true&hide_border=true" />
   </a>
