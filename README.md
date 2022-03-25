@@ -32,13 +32,13 @@ About= [
   <br />
   <br />
   <br />
-  <a href="https://github.com/IshanSingla/handle-path-oz">
+  <a href="https://github.com/IshanSingla">
     <img width="50%" align="left" alt="IshanSingla" src="https://github-readme-stats.vercel.app/api?username=IshanSingla&show_icons=true&hide_border=true" />
   </a>
 </p>
-<p>
+<a href="https://github.com/IshanSingla">
   <img width="42%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishansingla&show_icons=true&locale=en&layout=compact" alt="IshanSingla" />
-</p>
+</a>
 
 <br />
 
