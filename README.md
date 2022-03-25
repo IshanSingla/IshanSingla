@@ -25,10 +25,9 @@ About= [
 [![GitHub stars](https://img.shields.io/github/stars/IshanSingla.svg?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/IshanSingla?tab=followers)
 [![GitHub views](https://komarev.com/ghpvc/?username=IshanSingla&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/IshanSingla?tab=followers)
 
-
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="90%" align="left" alt="Ishan's github stats" src="https://github-profile-trophy.vercel.app/?username=IshanSingla&no-frame=true&row=1&column=7"/>
+  <a href="https://github.com/IshanSingla">
+    <img width="90%" align="left" alt="Ishan's github stats" src="https://github-profile-trophy.vercel.app/?username=IshanSingla"/>
   </a> 
   <br />
   <br />
