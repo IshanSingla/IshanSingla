@@ -33,13 +33,13 @@ About= [
   <br />
   <br />
   <a href="https://github.com/IshanSingla">
-    <img width="50%" align="left" alt="IshanSingla" src="https://github-readme-stats.vercel.app/api?username=IshanSingla&show_icons=true&hide_border=true" />
+    <img width="50%" align="left" alt="IshanSingla" src="https://github-readme-stats.vercel.app/api?username=IshanSingla&show_icons=true&hide_border=true&theme=dark" />
   </a>
   <a href="https://github.com/IshanSingla">
-    <img width="42%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishansingla&show_icons=true&locale=en&layout=compact" alt="IshanSingla" />
+    <img width="42%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishansingla&show_icons=true&locale=en&layout=compact&theme=dark" alt="IshanSingla" />
   </a>
   <a href="https://github.com/IshanSingla">
-    <img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=IshanSingla" alt="IshanSingla" />
+    <img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=IshanSingla&theme=dark" alt="IshanSingla" />
   </a>
 </p>
 
