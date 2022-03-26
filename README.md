@@ -35,12 +35,19 @@ About= [
   <a href="https://github.com/IshanSingla">
     <img width="50%" align="left" alt="IshanSingla" src="https://github-readme-stats.vercel.app/api?username=IshanSingla&show_icons=true&hide_border=true" />
   </a>
+  <a href="https://github.com/IshanSingla">
+    <img width="42%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishansingla&show_icons=true&locale=en&layout=compact" alt="IshanSingla" />
+  </a>
+  <a href="https://github.com/IshanSingla">
+    <img width="60%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=IshanSingla" alt="IshanSingla" />
+  </a>
 </p>
-<a href="https://github.com/IshanSingla">
-  <img width="42%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishansingla&show_icons=true&locale=en&layout=compact" alt="IshanSingla" />
-</a>
-
-<br />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
   
   
