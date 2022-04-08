@@ -56,7 +56,7 @@ About= [
     <img width="90%" align="left" alt="IshanSingla" src="https://activity-graph.herokuapp.com/graph?username=IshanSingla&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
   </a> 
   <a href="https://github.com/IshanSingla">
-    <img width="50%" align="left" alt="IshanSingla" src="https://github-readme-stats.vercel.app/api?username=IshanSingla&show_icons=true&hide_border=true&theme=dark" />
+    <img width="50%" align="left" alt="IshanSingla" src="https://github-readme-stats.vercel.app/api?username=IshanSingla&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
   <a href="https://github.com/IshanSingla">
     <img width="42%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishansingla&show_icons=true&locale=en&layout=compact&theme=dark" alt="IshanSingla" />
