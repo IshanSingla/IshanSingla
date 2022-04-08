@@ -59,9 +59,9 @@ About= [
     <img width="50%" align="left" alt="IshanSingla" src="https://github-readme-stats.vercel.app/api?username=IshanSingla&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
   <a href="https://github.com/IshanSingla">
-    <img width="42%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishansingla&show_icons=true&locale=en&layout=compact&theme=dark" alt="IshanSingla" />
+    <img width="42%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishansingla&hide_border=true&theme=react&layout=compact" alt="IshanSingla" />
   </a>
   <a href="https://github.com/IshanSingla">
-    <img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=IshanSingla&theme=dark" alt="IshanSingla" />
+    <img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=IshanSingla&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="IshanSingla" />
   </a>
 </p>
