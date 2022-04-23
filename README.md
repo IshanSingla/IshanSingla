@@ -2,8 +2,8 @@
 ```python
 Name = "ISHAN SINGLA"
 Profession = {
-  'Coding':  '❣❤️',
-  'DevOp':  '☑️',
+  'Coding':  '❤️',
+  'DevOp':  '✅',
   'System':  '🧲'
 }
 Age = "19"
