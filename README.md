@@ -27,7 +27,7 @@ About= [
 [![GitHub views](https://komarev.com/ghpvc/?username=IshanSingla&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/IshanSingla?tab=followers)
 
 <p align="left">
-<img width="50%" align="left" alt="IshanSingla" src="https://metrics.lecoq.io/ishansingla?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta"/>
+<img width="90%" align="left" alt="IshanSingla" src="https://metrics.lecoq.io/ishansingla?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta"/>
 <img width="100%" align="left" alt="IshanSingla" src="https://github-profile-trophy.vercel.app/?username=IshanSingla&theme=radical"/>
 <img width="100%" align="left" alt="IshanSingla" src="https://activity-graph.herokuapp.com/graph?username=IshanSingla&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 
