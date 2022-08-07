@@ -20,31 +20,10 @@ About= [
   "⚡️ Fun-Fact: I'm Noob"
 ]
 ```
-# Languages & Tools I Love❤️
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://seeklogo.com/images/M/mui-logo-56F171E991-seeklogo.com.png" alt="react" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="react" width="40" height="40"/> 
-  <img src="https://img.icons8.com/fluency/344/node-js.png" alt="node" width="40" height="40"/> 
-  <img src="https://nickjanetakis.com/assets/blog/cards/flask-libraries-for-building-awesome-real-world-restful-apis-909c9f55ee81f2a90344da2985159812423196d09a106d936534312ffa10be50.jpg" alt="node" width="70" height="40"/> 
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="node" width="70" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>   
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="git" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png" alt="linux" width="70" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
 
 # My GitHub Stats💛
-
 <p align="left">
-
+  
 [![GitHub followers](https://img.shields.io/github/followers/IshanSingla.svg?label=Follow)](https://github.com/IshanSingla?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/IshanSingla.svg?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/IshanSingla?tab=followers)
 [![GitHub views](https://komarev.com/ghpvc/?username=IshanSingla&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/IshanSingla?tab=followers)
