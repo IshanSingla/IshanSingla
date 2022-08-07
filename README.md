@@ -31,8 +31,8 @@ About= [
 <img width="100%" align="left" alt="IshanSingla" src="https://github-profile-trophy.vercel.app/?username=IshanSingla&theme=radical"/>
 <img width="100%" align="left" alt="IshanSingla" src="https://activity-graph.herokuapp.com/graph?username=IshanSingla&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 
-<img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishansingla&hide_border=true&theme=react&layout=compact" alt="IshanSingla" />
-<img width="48%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=IshanSingla&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="IshanSingla" />
+<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishansingla&hide_border=true&theme=react&layout=compact" alt="IshanSingla" />
+<img width="45%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=IshanSingla&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="IshanSingla" />
 </p>
 </p>
 <br/>
