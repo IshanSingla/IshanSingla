@@ -17,7 +17,7 @@ Age = "19"
 Country = "🇮🇳"
 College = "Chitkara University, Punjab"
 About= [
-  "💫 I’m currently working on [InducedOfficial](https://github.com/TeamUltroid)",
+  "💫 I’m currently working on Backend & AI/ML",
   "⚡ Always ready to help!",
   "😄I'm Still Learning Git & GitHub",
   "Python & NodeJS, Lover",
