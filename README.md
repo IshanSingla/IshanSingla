@@ -10,18 +10,27 @@
 Name = "ISHAN SINGLA"
 Profession = {
   'Coding':  '❤️',
-  'Devlopment':  '✅',
-  'BackEnd':  '🧲',
+  'Programer':  '✅',
+  'Devloper':  '🧲',
 }
+TechStacks= [
+  'Flask',
+  'Nodejs',
+  'ReactJs',
+  'Flutter',
+  'FireBase',
+  'MobgoDb',
+  'Git',
+  'AWS',
+  'DevOps',
+]
 Age = "19"
 Country = "🇮🇳"
 College = "Chitkara University, Punjab"
 About= [
-  "💫 I’m currently working on Backend & AI/ML",
+  "💫 I’m currently working on Backend",
   "⚡ Always ready to help!",
-  "😄I'm Still Learning Git & GitHub",
   "Python & NodeJS, Lover",
-  "Most Of My Repositories Are For Telegram",
   "💬 Ask me about anything, I am happy to help",
   "⚡️ Fun-Fact: I'm Noob"
 ]
@@ -36,7 +45,7 @@ About= [
 ---
 ## 📊 Stats
 
-[![Metrics](https://metrics.lecoq.io/IshanSingla?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://github.com/IshanSingla)
+
 <p><img align="lift" src="https://github-readme-streak-stats.herokuapp.com/?user=ishansingla&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="ishansingla" /></p>
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=ishansingla&theme=algolia" alt="ishansingla" /> </p>
 <br/>
@@ -59,7 +68,3 @@ About= [
 </p>
 <br/>
 
----
-## 🎵 Now playing
-
-[![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
