@@ -15,17 +15,14 @@
                         opacity: 0;
                         animation: fadeIn 1.2s linear 1.3s forwards;
                     }
-
                     @keyframes fadeIn {
                         0% {
                             opacity: 0;
                         }
-
                         100% {
                             opacity: 1;
                         }
                     }
-
                     .box {
                         box-sizing: border-box;
                         background-color: rgba(43,185,163, 0.3);
@@ -38,17 +35,14 @@
                         align-items: center;
                         justify-content: center;
                     }
-
                     #svg {
                         width: 100%;
                         max-width: 65px;
                         margin: 0px display: block;
                     }
-
                     #svg path {
                         fill: #ffc6ac;
                     }
-
                     .text {
                         margin: 0 10% 0 0;
                         padding: 0;
@@ -59,32 +53,26 @@
                         flex-grow: 1;
                         text-align: center;
                     }
-
                     @container (width > 150px) {
                         .text {
                             display: block;
-			    min-width: 90px;
+			                min-width: 90px;
                         }
                     }
-
                     @media (prefers-color-scheme: light) {
                         .container {
                             background-color: #fff;
                         }
-
                         .box {
                             background-color: #eee;
                         }
-
                         .text {
                             color: #333;
                         }
-
                         #svg path {
                             fill: #333;
                         }
                     }
-
                     @media (prefers-reduced-motion: reduce) {
                         .container {
                             animation: none !important;
@@ -92,14 +80,14 @@
                         }
                     }
                 </style>
-            <div class="container">
-                <div class="box">
-		<svg id="svg" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="0px" y="0px" style="enable-background:new 0 0 60 60" viewBox="0 0 60 60">
-		  <path d="m30 16-16 1c-2 0-3 2-4 3v20c1 1 2 3 4 3l16 1 15-1c2 0 3-2 4-3l1-10-1-10c-1-1-2-3-4-3l-15-1zm-4 8 10 6-10 6V24z"/>
-		</svg>	
-                <p class="text">YouTube</p>
-                </div>    
-            </div>
+                <div class="container">
+                    <div class="box">
+                        <svg id="svg" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="0px" y="0px" style="enable-background:new 0 0 60 60" viewBox="0 0 60 60">
+                        <path d="m30 16-16 1c-2 0-3 2-4 3v20c1 1 2 3 4 3l16 1 15-1c2 0 3-2 4-3l1-10-1-10c-1-1-2-3-4-3l-15-1zm-4 8 10 6-10 6V24z"/>
+                        </svg>	
+                        <p class="text">YouTube</p>
+                    </div>    
+                </div>
         </div>
     </foreignObject>
 </svg>
