@@ -1,5 +1,5 @@
 <!-- Social Links -->
-<div style="display:flex;">
+<div style="display:flex; flex-direction: row;">
     <a href="https://twitter.com/Itz_IshanSingla"><img src="readme/twitter.svg" width="100%" alt="Twitter Itz_IshanSingla"></a>
     <a href="https://www.linkedin.com/in/itzishansingla/"><img src="readme/linkedin.svg" width="100%" alt="LinkedIn Ishan Singla"></a>
     <a href="https://ishansingla.me/"><img src="readme/logo.svg" width="100%" alt="Ishan's Personal Site"></a>
@@ -110,8 +110,7 @@
         }
     }
 </style> -->
-    <div class="github-stats"  style="display:flex;flex-direction: column; width: 100%; box-shadow: 0px 0px 6px 3px rgba(43,185,163, 1);
-                        border: 1px solid #2BB9A3;">
+    <div class="github-stats"  style="display:flex;flex-direction: column; width: 100%; box-shadow: 0px 0px 6px 3px rgba(43,185,163, 1); border: 1px solid #2BB9A3;">
         <div style="display:flex;flex-direction: column; width: 100%;">
             <div style="display:flex; flex-direction: column; width: 100%; column-gap:2%" >
                 <div style="display:flex; width: 100%; gap: 2%;" >
@@ -123,12 +122,10 @@
                     <img  style="width: 49%;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IshanSingla&theme=tokyonight" alt="Productive Time"/>
                 </div>
             </div>
-            <div style="display:flex; flex-direction: column;  width: 100%;" >
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IshanSingla&theme=tokyonight" alt="Profile Details"/>
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishansingla&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="IshanSingla's Streak"/>
-            </div>
+            <img style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IshanSingla&theme=tokyonight" alt="Profile Details"/>
+            <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=ishansingla&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="IshanSingla's Streak"/>
         </div>
-        <img src="https://github-profile-trophy.vercel.app/?username=ishansingla&theme=tokyonight&no-frame=true&column=8"  alt="IshanSingla's Trophies"/>
+        <img style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=ishansingla&theme=tokyonight&no-frame=true&column=8"  alt="IshanSingla's Trophies"/>
     </div>
 </div>
 
