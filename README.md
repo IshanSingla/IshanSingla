@@ -1,10 +1,10 @@
 <!-- Social Links -->
 <div style="display:flex; flex-direction: row;">
-    <a href="https://twitter.com/Itz_IshanSingla"><img src="readme/twitter.svg" width="100%" alt="Twitter Itz_IshanSingla"></a>
-    <a href="https://www.linkedin.com/in/itzishansingla/"><img src="readme/linkedin.svg" width="100%" alt="LinkedIn Ishan Singla"></a>
-    <a href="https://ishansingla.me/"><img src="readme/logo.svg" width="100%" alt="Ishan's Personal Site"></a>
-    <a href="https://www.youtube.com/@IshanSingla"><img src="readme/youtube.svg" width="100%" alt="YouTube YourChannel"></a>
-    <a href="https://twitch.tv/yourtwitch"><img src="readme/twitch.svg" width="100%" alt="Twitch YourTwitch"></a>
+    <a href="https://twitter.com/Itz_IshanSingla"><img src="readme/twitter.svg" width="19%" alt="Twitter Itz_IshanSingla"></a>
+    <a href="https://www.linkedin.com/in/itzishansingla/"><img src="readme/linkedin.svg" width="19%" alt="LinkedIn Ishan Singla"></a>
+    <a href="https://ishansingla.me/"><img src="readme/logo.svg" width="19%" alt="Ishan's Personal Site"></a>
+    <a href="https://www.youtube.com/@IshanSingla"><img src="readme/youtube.svg" width="19%" alt="YouTube YourChannel"></a>
+    <a href="https://twitch.tv/yourtwitch"><img src="readme/twitch.svg" width="19%" alt="Twitch YourTwitch"></a>
 </div>
 
 <!-- Hero Image -->
