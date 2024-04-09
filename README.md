@@ -138,3 +138,21 @@
 ## Let's Connect!
 
 <p>🤝 Let's Connect! Open to mystical discussions on collaboration, new opportunities, or sharing profound insights in the tech space. Let's conjure the future together! 🚀</p>
+
+[![GitHub followers](https://img.shields.io/github/followers/IshanSingla.svg?label=Follow)](https://github.com/IshanSingla?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/IshanSingla.svg?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/IshanSingla?tab=followers)
+[![GitHub views](https://komarev.com/ghpvc/?username=IshanSingla&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/IshanSingla?tab=followers)
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/IshanSingla)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/Itz_IshanSingla/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:is.ishan.singla@gmail.com)
+
+<p align="left">
+<a href="https://twitter.com/Itz_IshanSingla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishansingla_xd" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/itzishansingla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isishansingla" height="30" width="30" /></a>
+<a href="https://codesandbox.com/ishansingla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ishansingla" height="30" width="30" /></a>
+<a href="https://instagram.com/Itz_IshanSingla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="is.ishan.singla" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/ishansingla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ishansingla" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/ishansingla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ishansingla" height="30" width="30" /></a>
+<a href="https://www.leetcode.com/ishansingla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishansingla" height="30" width="30" /></a>
+</p>
