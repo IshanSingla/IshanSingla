@@ -128,6 +128,22 @@
 
 ---
 
+## 👨🏻‍💻 WakaTime Stats
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
+---
+
+## 💻 Latest Activities
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+---
+
 ## Next Chapter
 
 <p>🌐 Next Chapter: Legendary Contributions: Armed with an arsenal of diverse skills and real-world enchantments, I stand poised for the next transcendental phase. Eager to contribute to groundbreaking projects, I navigate the ever-evolving tech cosmos with unwavering resolve.</p>
