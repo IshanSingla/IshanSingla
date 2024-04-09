@@ -12,6 +12,8 @@
     <img src="readme/hero.svg" width="100%" alt="Ishan with either thumbs up (for dark mode) or thumbs down (for light mode) with a speech bubble that reflects your usage of dark mode with support or light mode with disappointment">
 </div>
 
+---
+
 <!-- Profile Information -->
 <h3>🌟 ISHAN SINGLA 🌟</h3>
 
@@ -22,19 +24,31 @@
   <li><strong>Developer:</strong> Innovative 🧲 Magician</li>
 </ul>
 
-<h4>Tech Stacks</h4>
+
+---
+
+## Tech Stacks
+
 <ul>
   <li>Node.js, React.js, Next.js, Flutter, MongoDB, Redis, Git, AWS, DevOps</li>
 </ul>
 
-<h4>Personal Info</h4>
+
+---
+
+## Personal Info
+
 <ul>
-  <li><strong>Age:</strong> 20</li>
+  <li><strong>Age:</strong> 21</li>
   <li><strong>Country:</strong> 🇮🇳</li>
   <li><strong>College:</strong> Chitkara University, Punjab</li>
 </ul>
 
-<h4>About Me</h4>
+
+---
+
+## About Me
+
 <ul>
   <li>💫 Currently weaving magic in Backend & DevOps realms</li>
   <li>⚡ Always ready to summon solutions!</li>
@@ -43,19 +57,32 @@
   <li>⚡️ Fun-Fact: I'm the undisputed Noob King</li>
 </ul>
 
-<h4>Introduction</h4>
+
+---
+
+## Introduction
+
 <p>🚀 Behold! A Phenomenal Technologist | Mastermind Backend Developer | Cloud Enthusiast Extraordinaire</p>
 
-<h4>Academic Roots</h4>
-<p>🎓 Academic Odyssey: Embarked on a tech odyssey at Chitkara University, mastering the arcane arts of Node.js, Python, Java, and sculpting the digital realm with MongoDB. The journey didn't cease; I delved into the intricate tapestry of building robust applications with the legendary Spring Boot.</p>
 
-<h4>Professional Journey</h4>
+---
+
+## Professional Journey
+
 <p>💼 Professional Journey: Transcending the mundane, I ascended to the divine realms of backend sorcery, embracing the cosmic powers of cloud computing and DevOps. Mastery attained in the sacred arts of AWS and Azure. A pivotal internship with DRDO witnessed my contributions to cutting-edge projects.</p>
 
-<h4>Awards & Recognition</h4>
+
+---
+
+## Awards & Recognition
+
 <p>🏆 Awards & Recognition: A maestro in hackathons, claiming the zenith in competitions orchestrated by Punjab University and Yamaha. These conquests not only honed my problem-solving acumen but also showcased my unparalleled ability to thrive in the crucible of competitive tech environments.</p>
 
-<h4>Skills Snapshot</h4>
+
+---
+
+## Skills Snapshot
+
 <p>🛠️ Skills Alchemy:</p>
 <ul>
   <li><strong>Languages:</strong> Node.js, Python, Java, Go</li>
@@ -67,49 +94,11 @@
 
 <img src="readme/skills.svg" width="100%" alt="YouTube YourChannel">
 
+---
+
 ## 📊 Stats
 
 <div xmlns="http://www.w3.org/1999/xhtml">
-    <!-- <style>
-    .github-stats {
-        background-color: rgba(43,185,163, 0.3);
-        border-radius: 15px;
-        box-shadow: 0px 0px 6px 3px rgba(43,185,163, 1);
-        border: 1px solid #2BB9A3;
-        padding: 20px;
-        margin: 20px;
-        max-width: 100%;
-        box-sizing: border-box;
-    }
-    .github-stats img {
-        max-width: 100%;
-        height: auto;
-        display: block;
-        margin: 10px auto;
-    }
-    .stats-row {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-    }
-    @media (prefers-color-scheme: light) {
-        .github-stats {
-            background-color: #fff;
-            color: #333;
-        }
-    }
-    @media (prefers-color-scheme: dark) {
-        .github-stats {
-            background-color: #0d1117;
-            color: #fff;
-        }
-    }
-    @media (max-width: 768px) {
-        .stats-row img {
-            max-width: 90%;
-        }
-    }
-</style> -->
     <div class="github-stats"  style="display:flex;flex-direction: column; width: 100%; box-shadow: 0px 0px 6px 3px rgba(43,185,163, 1); border: 1px solid #2BB9A3;">
         <div style="display:flex;flex-direction: column; width: 100%;">
             <div style="display:flex; flex-direction: column; width: 100%; column-gap:2%" >
@@ -129,8 +118,23 @@
     </div>
 </div>
 
-<h4>Next Chapter</h4>
+
+---
+
+## 📋 Badges
+
+[![An image of @IshanSingla's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishansingla)](https://holopin.io/@ishansingla)
+
+
+---
+
+## Next Chapter
+
 <p>🌐 Next Chapter: Legendary Contributions: Armed with an arsenal of diverse skills and real-world enchantments, I stand poised for the next transcendental phase. Eager to contribute to groundbreaking projects, I navigate the ever-evolving tech cosmos with unwavering resolve.</p>
 
-<h4>Let's Connect!</h4>
+
+---
+
+## Let's Connect!
+
 <p>🤝 Let's Connect! Open to mystical discussions on collaboration, new opportunities, or sharing profound insights in the tech space. Let's conjure the future together! 🚀</p>
