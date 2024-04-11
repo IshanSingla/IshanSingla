@@ -1,8 +1,8 @@
 name: GitHub Activity Updater.
 on:
+  workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
+    - cron: '0 0 * * *' # runs at every 12AM UTC
 jobs:
   build:
     name: Update this repo's README with recent activity
