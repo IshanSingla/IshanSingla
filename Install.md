@@ -7,6 +7,8 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 brew install --cask \
+  anydesk \
+  spotify \
   raycast \
   google-chrome  \
   brave-browser \
@@ -21,7 +23,9 @@ brew install --cask \
   sequel-ace \
   ngrok \
   obs \
-  flutter
+  flutter \
+  android-studio \
+  mongodb-compass
 ```
 
 ## Tools
