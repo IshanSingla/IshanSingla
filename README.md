@@ -168,6 +168,7 @@ JavaScript        4 hrs 26 mins   ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [![GitHub followers](https://img.shields.io/github/followers/IshanSingla.svg?label=Follow)](https://github.com/IshanSingla?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/IshanSingla.svg?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/IshanSingla?tab=followers)
 [![GitHub views](https://komarev.com/ghpvc/?username=IshanSingla&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/IshanSingla?tab=followers)
+[![wakatime](https://wakatime.com/badge/user/018ec45b-bccc-4157-99ae-8edfee0c4d5a.svg)](https://wakatime.com/@018ec45b-bccc-4157-99ae-8edfee0c4d5a)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/IshanSingla)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/Itz_IshanSingla/)
