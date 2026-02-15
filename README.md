@@ -1,185 +1,150 @@
-<!-- Social Links -->
-<div style="display:flex; flex-direction: row;">
-    <a href="https://twitter.com/Itz_IshanSingla"><img src="readme/twitter.svg" width="19%" alt="Twitter Itz_IshanSingla"></a>
-    <a href="https://www.linkedin.com/in/itzishansingla/"><img src="readme/linkedin.svg" width="19%" alt="LinkedIn Ishan Singla"></a>
-    <a href="https://ishansingla.me/"><img src="readme/logo.svg" width="19%" alt="Ishan's Personal Site"></a>
-    <a href="https://www.youtube.com/@IshanSingla"><img src="readme/youtube.svg" width="19%" alt="YouTube YourChannel"></a>
-    <a href="https://twitch.tv/yourtwitch"><img src="readme/twitch.svg" width="19%" alt="Twitch YourTwitch"></a>
+<div align="center">
+
+  <!-- Hero -->
+  <img src="readme/hero.svg" width="100%" alt="Ishan with thumbs up (dark mode support) or thumbs down (light mode disappointment) – because dark mode supremacy!">
+
+  <!-- Social Links (bigger, centered, wrapped) -->
+  <div style="display: flex; justify-content: center; gap: 20px; margin: 25px 0; flex-wrap: wrap;">
+    <a href="https://twitter.com/Itz_IshanSingla"><img src="readme/twitter.svg" width="48" alt="Twitter"></a>
+    <a href="https://www.linkedin.com/in/itzishansingla/"><img src="readme/linkedin.svg" width="48" alt="LinkedIn"></a>
+    <a href="https://ishansingla.me/"><img src="readme/logo.svg" width="48" alt="Personal Site"></a>
+    <a href="https://www.youtube.com/@IshanSingla"><img src="readme/youtube.svg" width="48" alt="YouTube"></a>
+    <!-- Uncomment if active --> 
+    <!-- <a href="https://twitch.tv/yourtwitch"><img src="readme/twitch.svg" width="48" alt="Twitch"></a> -->
+  </div>
+
+  <h1>🌟 ISHAN SINGLA 🌟</h1>
+  <h3>Backend & MLOps Engineer | Cloud & DevOps Sorcerer | 23 | India 🇮🇳</h3>
+
+  <p>🚀 Behold! A Phenomenal Technologist | Mastermind Backend Developer | Cloud Enthusiast Extraordinaire</p>
+
 </div>
 
-<!-- Hero Image -->
-<div>
-    <img src="readme/hero.svg" width="100%" alt="Ishan with either thumbs up (for dark mode) or thumbs down (for light mode) with a speech bubble that reflects your usage of dark mode with support or light mode with disappointment">
-</div>
+---
+
+### 👨‍💻 About Me
+- 💫 Currently weaving magic as **MLOps Python Backend Engineer** at **Finvasia Securities Pvt Ltd** — building reliable ML pipelines, scalable APIs & cloud infra
+- 🧑‍💻 Previously: **Full-Stack Engineer** at **Bajaj Finserv Health** (7 months) — end-to-end product features & delivery
+- 🎓 B.Tech from **Chitkara University, Punjab**
+- ⚡ Always ready to summon solutions!
+- 💬 Ask me anything — I am the oracle you seek
+- ⚡️ Fun-Fact: I'm the undisputed **Noob King** (who still ships to production 😈)
+- 🔭 Deep into **MLOps**, Kubernetes, serverless, Go, FastAPI & NestJS
 
 ---
 
-<!-- Profile Information -->
-<h3>🌟 ISHAN SINGLA 🌟</h3>
+### 🛠️ Tech Stack Alchemy
 
-<h4>Profession</h4>
-<ul>
-  <li><strong>Coding:</strong> Passionate ❤️ Technologist</li>
-  <li><strong>Programmer:</strong> Certified ✅ Code Maestro</li>
-  <li><strong>Developer:</strong> Innovative 🧲 Magician</li>
-</ul>
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
+**Backend & Frameworks**  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
----
+**Databases & Stores**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
 
-## Tech Stacks
+**Cloud & Serverless**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=amazonlambda&logoColor=white)
+![ECS / Fargate](https://img.shields.io/badge/AWS%20ECS%20Fargate-FF9900?style=flat&logo=amazonecs&logoColor=white)
 
-<ul>
-  <li>Node.js, React.js, Next.js, Flutter, MongoDB, Redis, Git, AWS, DevOps</li>
-</ul>
+**DevOps & Tools**  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
-
----
-
-## Personal Info
-
-<ul>
-  <li><strong>Age:</strong> 21</li>
-  <li><strong>Country:</strong> 🇮🇳</li>
-  <li><strong>College:</strong> Chitkara University, Punjab</li>
-</ul>
-
-
----
-
-## About Me
-
-<ul>
-  <li>💫 Currently weaving magic in Backend & DevOps realms</li>
-  <li>⚡ Always ready to summon solutions!</li>
-  <li>Python & Node.js, the epic love saga continues</li>
-  <li>💬 Ask me anything, I am the oracle you seek</li>
-  <li>⚡️ Fun-Fact: I'm the undisputed Noob King</li>
-</ul>
-
-
----
-
-## Introduction
-
-<p>🚀 Behold! A Phenomenal Technologist | Mastermind Backend Developer | Cloud Enthusiast Extraordinaire</p>
-
-
----
-
-## Professional Journey
-
-<p>💼 Professional Journey: Transcending the mundane, I ascended to the divine realms of backend sorcery, embracing the cosmic powers of cloud computing and DevOps. Mastery attained in the sacred arts of AWS and Azure. A pivotal internship with DRDO witnessed my contributions to cutting-edge projects.</p>
-
-
----
-
-## Awards & Recognition
-
-<p>🏆 Awards & Recognition: A maestro in hackathons, claiming the zenith in competitions orchestrated by Punjab University and Yamaha. These conquests not only honed my problem-solving acumen but also showcased my unparalleled ability to thrive in the crucible of competitive tech environments.</p>
-
-
----
-
-## Skills Snapshot
-
-<p>🛠️ Skills Alchemy:</p>
-<ul>
-  <li><strong>Languages:</strong> Node.js, Python, Java, Go</li>
-  <li><strong>Databases:</strong> MongoDB, PostgreSQL, MySQL, DynamoDB, Redis</li>
-  <li><strong>Frameworks:</strong> Spring Boot, Next.js, FastAPI</li>
-  <li><strong>Cloud:</strong> AWS, Azure, Google Cloud</li>
-  <li><strong>DevOps:</strong> Jenkins, Kubernetes, Docker, Grafana</li>
-</ul>
+**Frontend & Mobile**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 <img src="readme/skills.svg" width="100%" alt="YouTube YourChannel">
+---
+
+### 💼 Professional Journey
+Transcending the mundane, I ascended to the divine realms of backend sorcery, embracing the cosmic powers of cloud computing and DevOps. Mastery attained in the sacred arts of **AWS** (Lambda, ECS, Fargate), Kubernetes, and more.
+
+- Pivotal internship with **DRDO** — contributed to cutting-edge defense projects
+- Full-Stack Engineer @ **Bajaj Finserv Health** (7 months)
+- Current: MLOps Python Backend Engineer @ **Finvasia Securities Pvt Ltd**
 
 ---
 
-## 📊 Stats
+### 🏆 Awards & Recognition
+A maestro in hackathons, claiming the zenith in competitions orchestrated by **Punjab University** and **Yamaha**. These conquests not only honed my problem-solving acumen but also showcased my unparalleled ability to thrive in the crucible of competitive tech environments.
 
-<div xmlns="http://www.w3.org/1999/xhtml">
-    <div class="github-stats"  style="display:flex;flex-direction: column; width: 100%; box-shadow: 0px 0px 6px 3px rgba(43,185,163, 1); border: 1px solid #2BB9A3;">
-        <div style="display:flex;flex-direction: column; width: 100%;">
-            <div style="display:flex; flex-direction: column; width: 100%; column-gap:2%" >
-                <div style="display:flex; width: 100%; gap: 2%;" >
-                    <img style="width: 49%;"  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IshanSingla&theme=tokyonight" alt="Repos Per Language"/>
-                    <img style="width: 49%;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IshanSingla&theme=tokyonight" alt="Most Commit Language"/>
-                </div>
-                <div style="display:flex; width: 100%;  gap: 2%;" >
-                    <img style="width: 49%;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IshanSingla&theme=tokyonight" alt="Stats"/>
-                    <img  style="width: 49%;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IshanSingla&theme=tokyonight" alt="Productive Time"/>
-                </div>
-            </div>
-            <img style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IshanSingla&theme=tokyonight" alt="Profile Details"/>
-            <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=ishansingla&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="IshanSingla's Streak"/>
-        </div>
-        <img style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=ishansingla&theme=tokyonight&no-frame=true&column=8"  alt="IshanSingla's Trophies"/>
-    </div>
+---
+
+### 📊 GitHub & Coding Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IshanSingla&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IshanSingla&theme=tokyonight" width="48%" /><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IshanSingla&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IshanSingla&theme=tokyonight" width="48%" /><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IshanSingla&theme=tokyonight" width="96%" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshanSingla&theme=tokyonight&hide_border=true" width="96%" /><br>
+  <img src="./readme/trophy.svg" width="96%" />
 </div>
 
-
----
-
-## 📋 Badges
-
-[![An image of @IshanSingla's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishansingla)](https://holopin.io/@ishansingla)
-
-
----
-
-## 👨🏻‍💻 WakaTime Stats
-
+### 👨🏻‍💻 WakaTime (Coding Pulse)
 <!--START_SECTION:waka-->
-
-```txt
+```text
 Total Time: 568 hrs 43 mins
-
-TypeScript                 351 hrs 8 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.74 %
-JSON                       36 hrs          ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.33 %
-Dart                       31 hrs 51 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.60 %
-JavaScript                 24 hrs 34 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.32 %
-Prisma                     18 hrs 49 mins  ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.31 %
+TypeScript 351 hrs 8 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀ 61.74 %
+JSON 36 hrs ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 06.33 %
+Dart 31 hrs 51 mins ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 05.60 %
+JavaScript 24 hrs 34 mins ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 04.32 %
+Prisma 18 hrs 49 mins ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 03.31 %
 ```
-
 <!--END_SECTION:waka-->
 
+---
+
+### 📋 Badges
+[![Holopin badges @IshanSingla](https://holopin.me/ishansingla)](https://holopin.io/@ishansingla)
 
 ---
 
-## 💻 Latest Activities
-
+### 💻 Latest Activities
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
----
-
-## Next Chapter
-
-<p>🌐 Next Chapter: Legendary Contributions: Armed with an arsenal of diverse skills and real-world enchantments, I stand poised for the next transcendental phase. Eager to contribute to groundbreaking projects, I navigate the ever-evolving tech cosmos with unwavering resolve.</p>
-
 
 ---
 
-## Let's Connect!
+### 🌐 Next Chapter
+Armed with an arsenal of diverse skills and real-world enchantments, I stand poised for the next transcendental phase. Eager to contribute to groundbreaking projects, I navigate the ever-evolving tech cosmos with unwavering resolve.
 
-<p>🤝 Let's Connect! Open to mystical discussions on collaboration, new opportunities, or sharing profound insights in the tech space. Let's conjure the future together! 🚀</p>
+---
 
-[![GitHub followers](https://img.shields.io/github/followers/IshanSingla.svg?label=Follow)](https://github.com/IshanSingla?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/IshanSingla.svg?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/IshanSingla?tab=followers)
-[![GitHub views](https://komarev.com/ghpvc/?username=IshanSingla&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/IshanSingla?tab=followers)
-[![wakatime](https://wakatime.com/badge/user/018ec45b-bccc-4157-99ae-8edfee0c4d5a.svg)](https://wakatime.com/@018ec45b-bccc-4157-99ae-8edfee0c4d5a)
+### 🤝 Let's Connect & Conjure the Future!
+Open to mystical discussions on collaboration, new opportunities, MLOps/backend roles, hackathons, or just geeking out.
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/IshanSingla)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/Itz_IshanSingla/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:is.ishan.singla@gmail.com)
+<p align="center">
+  <a href="mailto:is.ishan.singla@gmail.com"><img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://linkedin.com/in/itzishansingla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/Itz_IshanSingla"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://instagram.com/Itz_IshanSingla"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://github.com/IshanSingla"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.youtube.com/@IshanSingla"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.hackerrank.com/ishansingla"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://www.leetcode.com/ishansingla"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+</p>
 
-<p align="left">
-<a href="https://twitter.com/Itz_IshanSingla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishansingla_xd" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/itzishansingla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isishansingla" height="30" width="30" /></a>
-<a href="https://codesandbox.com/ishansingla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ishansingla" height="30" width="30" /></a>
-<a href="https://instagram.com/Itz_IshanSingla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="is.ishan.singla" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/ishansingla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ishansingla" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/ishansingla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ishansingla" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/ishansingla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishansingla" height="30" width="30" /></a>
+<p align="center">
+  🚀 Ready to build something legendary? Drop a message — let's make magic happen!
 </p>

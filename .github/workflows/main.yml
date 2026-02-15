@@ -1,0 +1,72 @@
+name: Update README (Trophy + WakaTime + Activity)
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs at 00:00 and 12:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+
+  # ---------------------------------
+  # JOB 1 → Update Trophy
+  # ---------------------------------
+  update-trophy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate trophy card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=${{ github.repository_owner }}&theme=tokyonight&no-frame=true&column=8'
+          path: readme/trophy.svg
+          token: ${{ secrets.TOKEN }}
+
+      - name: Commit trophy update
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
+          git add readme/trophy.svg
+          git commit -m "Update README trophy" || exit 0
+          git push
+
+
+  # ---------------------------------
+  # JOB 2 → Update WakaTime
+  # ---------------------------------
+  update-wakatime:
+    needs: update-trophy
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update WakaTime stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: true
+
+  # ---------------------------------
+  # JOB 3 → Update GitHub Activity
+  # ---------------------------------
+  update-activity:
+    needs: update-wakatime
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README with recent activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
