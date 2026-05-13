@@ -1,22 +1,23 @@
 <div align="center">
 
-  <!-- Hero -->
-  <img src="readme/hero.svg" width="100%" alt="Ishan with thumbs up (dark mode support) or thumbs down (light mode disappointment) – because dark mode supremacy!">
+  <img src="readme/hero.svg" width="100%" alt="Ishan Singla">
 
-  <!-- Social Links (bigger, centered, wrapped) -->
   <div style="display: flex; justify-content: center; gap: 20px; margin: 25px 0; flex-wrap: wrap;">
     <a href="https://twitter.com/Itz_IshanSingla"><img src="readme/twitter.svg" width="48" alt="Twitter"></a>
     <a href="https://www.linkedin.com/in/itzishansingla/"><img src="readme/linkedin.svg" width="48" alt="LinkedIn"></a>
     <a href="https://ishansingla.me/"><img src="readme/logo.svg" width="48" alt="Personal Site"></a>
     <a href="https://www.youtube.com/@IshanSingla"><img src="readme/youtube.svg" width="48" alt="YouTube"></a>
-    <!-- Uncomment if active --> 
-    <!-- <a href="https://twitch.tv/yourtwitch"><img src="readme/twitch.svg" width="48" alt="Twitch"></a> -->
   </div>
 
-  <h1>🌟 ISHAN SINGLA 🌟</h1>
-  <h3>Backend & MLOps Engineer | Cloud & DevOps Sorcerer | 23 | India 🇮🇳</h3>
+  <h1>Ishan Singla</h1>
+  <h3>MLOps & Backend Engineer &nbsp;·&nbsp; AI/ML Systems &nbsp;·&nbsp; Cloud Infrastructure &nbsp;·&nbsp; India 🇮🇳</h3>
+  <p>Building production-grade AI/ML platforms, scalable backend systems, and cloud-native infrastructure for fintech.</p>
 
-  <p>🚀 Behold! A Phenomenal Technologist | Mastermind Backend Developer | Cloud Enthusiast Extraordinaire</p>
+  <br>
+
+  <a href="https://linkedin.com/in/itzishansingla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:is.ishan.singla@gmail.com"><img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://ishansingla.me/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
 </div>
 
