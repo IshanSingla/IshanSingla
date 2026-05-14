@@ -23,14 +23,34 @@
 
 ---
 
-### 👨‍💻 About Me
-- 💫 Currently weaving magic as **MLOps Python Backend Engineer** at **Finvasia Securities Pvt Ltd** — building reliable ML pipelines, scalable APIs & cloud infra
-- 🧑‍💻 Previously: **Full-Stack Engineer** at **Bajaj Finserv Health** (7 months) — end-to-end product features & delivery
-- 🎓 B.Tech from **Chitkara University, Punjab**
-- ⚡ Always ready to summon solutions!
-- 💬 Ask me anything — I am the oracle you seek
-- ⚡️ Fun-Fact: I'm the undisputed **Noob King** (who still ships to production 😈)
-- 🔭 Deep into **MLOps**, Kubernetes, serverless, Go, FastAPI & NestJS
+## Experience
+
+<details>
+<summary><b>MLOps Python Backend Engineer</b> &nbsp;·&nbsp; Finvasia Securities &nbsp;·&nbsp; Mohali, India &nbsp;·&nbsp; <i>Mar 2025 – Present</i></summary>
+<br>
+
+- Designed and deployed AI-powered stock analysis and sentiment intelligence systems processing **5,000+ stocks daily** across fundamental, technical, and news-based pipelines
+- Built modular AI agent workflows for financial insights, multi-stock comparison, and an AI executive coach with streaming responses and Elasticsearch-based conversational memory
+- Developed scalable backend APIs and microservices in Python, Flask, and NestJS with repository patterns, DTO validation, admin analytics, and standardized health check frameworks
+- Dockerized AI and backend services and built CI/CD pipelines for AWS ECS on ARM64, with modular scripts for ECR push, task definitions, and service rollouts
+- Built reusable S3 utility frameworks and resilient nightly batch and migration pipelines with retry handling, audit logging, and CSV-based tracking over PostgreSQL and Elasticsearch
+- Implemented centralized ELK logging, request correlation, and structured tracing — improving observability and reliability of LLM-based production workloads
+
+</details>
+
+<details>
+<summary><b>SDE Intern (Full-Stack)</b> &nbsp;·&nbsp; Bajaj Finserv Health &nbsp;·&nbsp; Pune, India &nbsp;·&nbsp; <i>Jul 2024 – Jan 2025</i></summary>
+<br>
+
+- Delivered 5+ critical frontend features — CMS-based text localization and Google Analytics (GA) event integration, improving user experience by **40%**
+- Implemented pay-in and pay-out workflows with Kafka for microservices, reducing asynchronous transaction processing time by **25%**
+- Revamped a core service by onboarding a new business module with MySQL and Kafka, boosting operational efficiency by **30%**
+- Performed ArgoCD migration and automated Azure release pipelines, improving deployment speed by **20%** and reducing manual intervention by **50%**
+- Developed PR validation pipelines, improving code quality and reducing integration errors by **35%**
+
+</details>
+
+**Education:** B.Tech — Chitkara University, Punjab &nbsp;·&nbsp; Research Intern at DRDO (under Chitkara University)
 
 ---
 
@@ -75,13 +95,6 @@
 
 <img src="readme/skills.svg" width="100%" alt="YouTube YourChannel">
 ---
-
-### 💼 Professional Journey
-Transcending the mundane, I ascended to the divine realms of backend sorcery, embracing the cosmic powers of cloud computing and DevOps. Mastery attained in the sacred arts of **AWS** (Lambda, ECS, Fargate), Kubernetes, and more.
-
-- Pivotal internship with **DRDO** — contributed to cutting-edge defense projects
-- Full-Stack Engineer @ **Bajaj Finserv Health** (7 months)
-- Current: MLOps Python Backend Engineer @ **Finvasia Securities Pvt Ltd**
 
 ---
 
