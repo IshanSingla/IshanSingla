@@ -98,8 +98,82 @@
 
 ---
 
-### 🏆 Awards & Recognition
-A maestro in hackathons, claiming the zenith in competitions orchestrated by **Punjab University** and **Yamaha**. These conquests not only honed my problem-solving acumen but also showcased my unparalleled ability to thrive in the crucible of competitive tech environments.
+## Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AI Coaching Platform</h3>
+      <sub><i>Enablerz Private Limited &nbsp;·&nbsp; Mar – Jul 2024</i></sub>
+      <br><br>
+      <p>Architected and launched an AI-powered coach-coachee matchmaking platform, improving match accuracy by <b>50%</b>. Integrated Google Meet and Zoom for coaching sessions, established ELK monitoring (reducing downtime by 30%), and secured data with MongoDB Atlas. Full cloud infrastructure on <b>AWS</b>, provisioned end-to-end via <b>Terraform</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white">
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white">
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white">
+        <img src="https://img.shields.io/badge/Llama%203.2-412991?style=flat&logoColor=white">
+        <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white">
+        <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=flat&logo=elastic&logoColor=white">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Tailerally — B2B SaaS CRM</h3>
+      <sub><i>HDS Enterprise &nbsp;·&nbsp; Jan – Jun 2025</i></sub>
+      <br><br>
+      <p>End-to-end B2B SaaS CRM for tailors — backend, cloud infrastructure, and web frontend. NestJS backend with a <b>Go microservice</b> for high-throughput bill generation. Event-driven AWS infrastructure (EC2, RDS, Redis, SQS, SES, Lambda) provisioned fully via <b>Terraform</b>. Modules for orders, measurements, inventory, and role-based dashboards.</p>
+      <p>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white">
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white">
+        <img src="https://img.shields.io/badge/SQS%20%2F%20Lambda-FF9900?style=flat&logo=amazonecs&logoColor=white">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>LLM Proxy & Workflow Automation</h3>
+      <br>
+      <p>Unified proxy layer over <b>10+ LLM providers</b> (OpenAI, Anthropic, Gemini, etc.) with a drag-and-drop workflow builder for end-to-end AI automation. Features RAG pipelines, <b>100+ integrations</b>, and a no-code interface for multi-step AI workflows — self-hostable alternative to LangChain/Flowise. Fully deployed on <b>AWS</b> with all infrastructure managed via <b>Terraform</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white">
+        <img src="https://img.shields.io/badge/RAG-2088FF?style=flat&logoColor=white">
+        <img src="https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white">
+        <img src="https://img.shields.io/badge/100+%20Integrations-4CAF50?style=flat&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Real-Time Call Rating System</h3>
+      <br>
+      <p>Processes live call audio and generates quality ratings via real-time event triggers. Audio AI pipelines evaluate call quality, agent performance, and conversation outcomes — enabling automated QA at scale without manual review.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Audio%20AI-FF6B6B?style=flat&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Real--Time-00C853?style=flat&logoColor=white">
+        <img src="https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Go-based Calling Agent</h3>
+      <br>
+      <p>Experimental server-cost reduction: rewrote a high-throughput calling agent in Go to benchmark performance and infra savings vs. the existing Python service. Explored Go concurrency patterns and connection pooling at the telephony layer.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
+        <img src="https://img.shields.io/badge/Telephony-6C63FF?style=flat&logoColor=white">
+        <img src="https://img.shields.io/badge/Cost%20Optimization-4CAF50?style=flat&logoColor=white">
+      </p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
 ---
 
