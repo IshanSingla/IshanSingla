@@ -190,7 +190,7 @@
 
 ---
 
-### 📊 GitHub & Coding Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IshanSingla&theme=tokyonight" width="48%" />
@@ -202,7 +202,7 @@
   <img src="./readme/trophy.svg" width="96%" />
 </div>
 
-### 👨🏻‍💻 WakaTime (Coding Pulse)
+## WakaTime
 <!--START_SECTION:waka-->
 
 ```txt
@@ -219,37 +219,21 @@ Prisma                     18 hrs 49 mins        ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ---
 
-### 📋 Badges
 [![Holopin badges @IshanSingla](https://holopin.me/ishansingla)](https://holopin.io/@ishansingla)
 
----
-
-### 💻 Latest Activities
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#517](https://github.com/livekit/sip/issues/517#issuecomment-4150994754) in [livekit/sip](https://github.com/livekit/sip)
 <!--END_SECTION:activity-->
 
 ---
 
-### 🌐 Next Chapter
-Armed with an arsenal of diverse skills and real-world enchantments, I stand poised for the next transcendental phase. Eager to contribute to groundbreaking projects, I navigate the ever-evolving tech cosmos with unwavering resolve.
-
----
-
-### 🤝 Let's Connect & Conjure the Future!
-Open to mystical discussions on collaboration, new opportunities, MLOps/backend roles, hackathons, or just geeking out.
-
 <p align="center">
-  <a href="mailto:is.ishan.singla@gmail.com"><img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://linkedin.com/in/itzishansingla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/Itz_IshanSingla"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://instagram.com/Itz_IshanSingla"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://github.com/IshanSingla"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.youtube.com/@IshanSingla"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://www.hackerrank.com/ishansingla"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
-  <a href="https://www.leetcode.com/ishansingla"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://twitter.com/Itz_IshanSingla"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://instagram.com/Itz_IshanSingla"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://github.com/IshanSingla"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.youtube.com/@IshanSingla"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/ishansingla"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+  <a href="https://www.leetcode.com/ishansingla"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 </p>
 
-<p align="center">
-  🚀 Ready to build something legendary? Drop a message — let's make magic happen!
-</p>
+<p align="center">Open to MLOps, Backend Engineering, and AI infrastructure roles — feel free to reach out.</p>
